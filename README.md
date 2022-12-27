@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/karanpargal/whitelist_app/raw/c45222d086475d139cd7999587a0d6f287ca648e/screenshot/webpage.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/karanpargal/whitelist_app/raw/c45222d086475d139cd7999587a0d6f287ca648e/screenshot/webpage.png" alt="project-screenshot" width="1920" height="400/">
 
   
   
